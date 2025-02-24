@@ -41,5 +41,7 @@ public class Student {
 	void print900000() {
 		System.out.println("sdfdsf");
 	}
-	
+	void print123421(){
+		System.out.println("few");
+	}
 }
